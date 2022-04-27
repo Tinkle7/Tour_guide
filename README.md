@@ -1,3 +1,10 @@
+pc view
+![pc_view](https://user-images.githubusercontent.com/98764045/165555232-faae79cc-34c3-46e2-aaf5-3ce6dbea6ae9.jpeg)
+ipad view
+![Ipad_view](https://user-images.githubusercontent.com/98764045/165555391-adc3a11f-a5d9-48e2-9480-c180c3ba8a35.jpeg)
+mobile view
+![mobile_view](https://user-images.githubusercontent.com/98764045/165555469-1bbeeae8-87f5-46e5-af5b-451cf285c46e.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
